@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi _Friends_ 👋
 - 💬 Ask me about **Solidity**.
 - 🌱 Place I want to visit, the **UK**, all of it
 - 📫 Let's connect, via **[Mail](daphicx@gmail.com)**.
