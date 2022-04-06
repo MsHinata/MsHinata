@@ -1,5 +1,5 @@
 #### Hi _Friends_ 👋
-- 💬 I'm on a Journey, ask me about **Solidity**.
+- 💬 I'm on a success path, ask me about **Solidity**.
 - 🌱 Place I want to visit, the **UK**, all of it
 - 📫 Let's connect, via **[Mail](daphicx@gmail.com)**.
 
