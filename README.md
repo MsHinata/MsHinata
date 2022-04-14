@@ -1,5 +1,5 @@
 #### Hi _Friends_ 👋
-- 💬 Intested in **Solidity** learning path.
+- 💬 Intested in learning **Solidity** learning path.
 - 🌱 Place I want to visit, the **UK**, all of it
 - 📫 Let's connect, via **[Mail](daphicx@gmail.com)**.
 
