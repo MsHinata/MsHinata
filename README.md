@@ -1,7 +1,7 @@
 #### Hi _Friends_ 👋
-- 💬 Intested in learning **Solidity**.
+- 💬 Intested in **Solidity**.
 - 🌱 Place I want to visit, the **UK**, all of it
-- 📫 Let's connect, via **[Mail](daphicx@gmail.com)**.
+<!-- - 📫 Let's connect, via **[Mail](daphicx@gmail.com)**. -->
 
 <div align=center>  
   <hr>
