@@ -1,6 +1,6 @@
 #### Hi _Friends_ 👋
 - 💬 I'm Interested in **Solidity**.
-- 🌱 Place I want to visit, the **UK**, all of it
+- 🌱 Places I want to visit, the **UK**, all of it
 <!-- - 📫 Let's connect, via **[Mail](daphicx@gmail.com)**. -->
 
 <div align=center>  
