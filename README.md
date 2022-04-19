@@ -1,5 +1,5 @@
 #### Hi _Friends_ 👋
-- 💬 Currently I am Interested in **Solidity**.
+- 💬 Currently I am Interested in **Solidity**
 - 🌱 Places I want to visit, the **UK**, all of it
 <!-- - 📫 Let's connect, via **[Mail](daphicx@gmail.com)**. -->
 
