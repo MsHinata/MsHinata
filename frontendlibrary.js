@@ -1624,23 +1624,23 @@ __p+='`),
           e(l).attr("style", g ? "display: none !important;" : "");
         }
         function p() {
-          var g = e('<a class="w-webflow-badge"></a>').attr(
+          var g = e('').attr(
               "href",
-              "https://webflow.com?utm_campaign=brandjs"
+              ""
             ),
-            m = e("<img>")
+            m = e("")
               .attr(
                 "src",
-                "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon-d2.89e12c322e.svg"
+                ""
               )
               .attr("alt", "")
               .css({ marginRight: "4px", width: "26px" }),
-            I = e("<img>")
+            I = e("")
               .attr(
                 "src",
-                "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-text-d2.c82cec3b78.svg"
+                ""
               )
-              .attr("alt", "Made in Webflow");
+              .attr("alt", "");
           return g.append(m, I), g[0];
         }
         function d() {
