@@ -14,4 +14,4 @@
 </div> -->
 
 ### Vercel Link
-[Coming Soon](Deployment)
+[](https://n-g.vercel.app/)
